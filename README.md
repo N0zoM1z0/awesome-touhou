@@ -59,6 +59,7 @@ _Tools for organizing, launching, and running Touhou games across platforms._
 _Tools for configuring controls and connecting games to other applications._
 
 - [thkmc](https://github.com/wz520/thkmc) - Adds custom key mappings to supported Touhou STGs by patching their executables.
+- [ThMouseX](https://github.com/Meigyoku-Thmn/ThMouseX) - Enables mouse control for official Touhou shooting games, with preconfigured support for Touhou 6 through Touhou 20.
 - [TouhouKeymap](https://github.com/devinacker/TouhouKeymap) - A thcrap plugin that adds per-game configurable keyboard controls to supported official Touhou games.
 - [TouhouRPC](https://github.com/TheBakaRem/TouhouRPC) - Adds Discord Rich Presence support to Touhou games.
 

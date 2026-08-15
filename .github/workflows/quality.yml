@@ -47,9 +47,11 @@ jobs:
       - name: Check external links
         uses: lycheeverse/lychee-action@v2.9.0
         with:
+          # These sites reject automated requests from GitHub-hosted runners.
           args: >-
             --max-retries 3
             --no-progress
+            --exclude '^https://en\.touhouwiki\.net/.*$'
             --exclude '^https://thwiki\.cc/$'
             --exclude '^https://www\.thpatch\.net/wiki/Touhou_Patch_Center:Download$'
             README.md

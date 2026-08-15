@@ -14,7 +14,7 @@ const symbols = {
   "Fighting Games": "⚔",
   "Music and Data": "♫",
   "Open-source Fangames": "☄",
-  "Touhou Mods for Other Games": "◇",
+  "Touhou in Other Games": "◇",
   "Knowledge and Community": "☯",
   "Historical and Reference Projects": "◌",
 };

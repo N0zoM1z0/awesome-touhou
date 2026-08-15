@@ -25,7 +25,7 @@ Awesome Touhou is an unofficial community project and is not affiliated with ZUN
 - [Fighting Games](#fighting-games)
 - [Music and Data](#music-and-data)
 - [Open-source Fangames](#open-source-fangames)
-- [Touhou Mods for Other Games](#touhou-mods-for-other-games)
+- [Touhou in Other Games](#touhou-in-other-games)
 - [Knowledge and Community](#knowledge-and-community)
 - [Historical and Reference Projects](#historical-and-reference-projects)
 
@@ -136,11 +136,12 @@ _Playable fan games whose source code is publicly available._
 
 - [Taisei](https://github.com/taisei-project/taisei) - A polished, free, and open-source Touhou-style bullet hell game for desktop platforms and the web.
 
-## Touhou Mods for Other Games
+## Touhou in Other Games
 
-_Substantial Touhou-themed modifications for other games._
+_Substantial Touhou-themed mods and curated resources for Touhou content in other games._
 
 - [Touhou Little Maid](https://github.com/TartaricAcid/TouhouLittleMaid) - A Forge and NeoForge Minecraft mod that adds customizable Touhou-inspired maids, combat, farming, and other systems.
+- [Touhou osu! Index](https://github.com/N0zoM1z0/touhou-osu-index) - An open, reproducible, automatically maintained catalog of Touhou music mapped in osu!, with provenance, confidence-based review, and JSON and CSV exports.
 
 ## Knowledge and Community
 

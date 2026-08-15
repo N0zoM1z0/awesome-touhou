@@ -6,8 +6,9 @@ const state = {
 
 const accents = ["#d5414f", "#74d6cc", "#e2bc6a", "#b996d8", "#eb846b"];
 const symbols = {
-  "Getting Started": "⛩",
+  "Official Resources and Getting Started": "⛩",
   "Game Tools": "⌘",
+  "Gameplay, Replays, and Scoring": "◎",
   "Reverse Engineering and Preservation": "⌁",
   "Game Development": "✦",
   "Fighting Games": "⚔",

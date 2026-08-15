@@ -48,7 +48,7 @@ Prefer the original upstream project when it remains maintained and recommended.
 
 ## Historical Projects
 
-Inactive or archived projects may be accepted when they have clear preservation, research, source-reference, or historical value. Place them in **Historical and Reference Projects** and explain why they remain useful. A recent commit is not required for mature tools that still work, but broken or superseded projects must not be presented as current recommendations.
+The main list does not include inactive, archived, deprecated, undocumented, broken, or superseded projects. Resources with clear preservation, research, source-reference, or historical value may instead be documented in [Historical and Reference Projects](historical.md), with an explanation of why they remain useful.
 
 ## Entry Format
 

@@ -16,7 +16,6 @@ const symbols = {
   "Open-source Fangames": "☄",
   "Touhou in Other Games": "◇",
   "Knowledge and Community": "☯",
-  "Historical and Reference Projects": "◌",
 };
 
 const grid = document.querySelector("#project-grid");

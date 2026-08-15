@@ -1,12 +1,14 @@
 # Awesome Touhou [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-An opinionated guide to the best open-source tools, preservation projects, fangames, and community resources for Touhou Project.
+<p align="center">
+  <a href="https://n0zom1z0.github.io/awesome-touhou/"><img src="website/static/favicon.svg" width="96" alt="Awesome Touhou logo"></a>
+</p>
+
+Bullet hell shoot 'em up game series and doujin media franchise created by ZUN.
 
 Browse and filter the collection at [n0zom1z0.github.io/awesome-touhou](https://n0zom1z0.github.io/awesome-touhou/).
 
-This is a curated collection, not an exhaustive directory. Projects are selected for their usefulness, distinct value, documentation, and direct relevance to Touhou; popularity is only one signal. Mature or historical projects and resources from non-English communities are welcome when they remain valuable.
-
-Awesome Touhou is an unofficial community project and is not affiliated with ZUN or Team Shanghai Alice. The [CC0 dedication](LICENSE) applies only to this list's original text and structured data; linked projects and Touhou-related works retain their respective rights and licenses.
+This is a curated collection, not an exhaustive directory. Projects are selected for their usefulness, distinct value, documentation, and direct relevance to Touhou; popularity is only one signal. Mature projects and resources from non-English communities are welcome when they remain valuable.
 
 ## Contents
 
@@ -27,7 +29,6 @@ Awesome Touhou is an unofficial community project and is not affiliated with ZUN
 - [Open-source Fangames](#open-source-fangames)
 - [Touhou in Other Games](#touhou-in-other-games)
 - [Knowledge and Community](#knowledge-and-community)
-- [Historical and Reference Projects](#historical-and-reference-projects)
 
 ## Official Resources and Getting Started
 
@@ -152,15 +153,10 @@ _Curated references, community tools, and multilingual knowledge bases._
 - [THBWiki](https://thwiki.cc/) - A Chinese-language Touhou encyclopedia and community database with extensive music, event, and publication coverage.
 - [Touhou Wiki](https://en.touhouwiki.net/) - A multilingual community encyclopedia covering official works, characters, gameplay, music, and fan culture.
 
-## Historical and Reference Projects
-
-_Inactive or superseded projects retained for their source, research, or preservation value._
-
-- [Concealed the Conclusion: Original Source](https://github.com/danmaq/touhou-ctc-danmakufu) - The original Danmakufu source release for the influential fangame Concealed the Conclusion.
-- [EoSDecomp](https://github.com/wearrrrr/EoSDecomp) - An earlier byte-accurate decompilation effort for Embodiment of Scarlet Devil.
-- [Fantasy Crescendo](https://github.com/HouraiTeahouse/FantasyCrescendo) - Source code for a 2.5D Touhou platform fighting fangame built with Unity.
-- [twinject](https://github.com/Netdex/twinject) - An automated player and hooking framework for technical research into Touhou bullet hell games.
-
 ## Contributing
 
 Contributions are welcome. Please read the [contribution guidelines](CONTRIBUTING.md) before opening a pull request.
+
+## Footnotes
+
+Awesome Touhou is an unofficial community project and is not affiliated with ZUN or Team Shanghai Alice. Inactive and superseded resources with lasting research or preservation value are kept in [Historical and Reference Projects](historical.md).

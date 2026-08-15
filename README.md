@@ -2,6 +2,8 @@
 
 An opinionated guide to the best open-source tools, preservation projects, fangames, and community resources for Touhou Project.
 
+**Browse and filter the collection at [n0zom1z0.github.io/awesome-touhou](https://n0zom1z0.github.io/awesome-touhou/).**
+
 ## Contents
 
 - [Getting Started](#getting-started)

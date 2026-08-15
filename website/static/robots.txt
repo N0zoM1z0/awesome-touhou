@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://n0zom1z0.github.io/awesome-touhou/sitemap.xml

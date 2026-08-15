@@ -1,0 +1,62 @@
+name: Check catalog quality
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+  workflow_dispatch:
+  schedule:
+    - cron: "23 4 * * 1"
+
+permissions:
+  contents: read
+
+jobs:
+  catalog:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v7
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v7
+        with:
+          node-version: 24
+
+      - name: Lint the awesome list
+        run: npx --yes awesome-lint@2.3.0 README.md
+        env:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Test the catalog parser
+        run: python3 -m unittest website/test_build.py
+
+      - name: Build the website
+        run: python3 website/build.py
+
+      - name: Check website JavaScript
+        run: node --check website/static/app.js
+
+  links:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v7
+
+      - name: Check external links
+        uses: lycheeverse/lychee-action@v2.9.0
+        with:
+          # These sites reject automated requests from GitHub-hosted runners.
+          args: >-
+            --max-retries 3
+            --no-progress
+            --exclude '^https://en\.touhouwiki\.net/.*$'
+            --exclude '^https://thwiki\.cc/$'
+            --exclude '^https://www\.thpatch\.net/wiki/Touhou_Patch_Center:Download$'
+            README.md
+            CONTRIBUTING.md
+            website/static/index.html
+          fail: true
+          jobSummary: true
+          token: ${{ secrets.GITHUB_TOKEN }}

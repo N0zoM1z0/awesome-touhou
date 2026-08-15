@@ -1,0 +1,50 @@
+name: Suggest a resource
+description: Recommend something useful for the Touhou community.
+title: "[Suggestion] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve Awesome Touhou! We welcome useful resources from every language and community.
+
+  - type: input
+    id: name
+    attributes:
+      label: Resource name
+      placeholder: The canonical project or resource name
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      description: Please use the canonical HTTPS URL when possible.
+      placeholder: https://example.com/
+    validations:
+      required: true
+
+  - type: textarea
+    id: value
+    attributes:
+      label: Why is it awesome?
+      description: Tell us who it helps, what it does, and what makes it distinct.
+      placeholder: This resource helps...
+    validations:
+      required: true
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else?
+      description: Languages, maintenance status, your affiliation, or other useful context.
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Quick check
+      options:
+        - label: Touhou Project is central to this resource.
+          required: true
+        - label: This resource does not primarily distribute unauthorized copyrighted material.
+          required: true

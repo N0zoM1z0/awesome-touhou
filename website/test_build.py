@@ -49,7 +49,44 @@ class CatalogParserTests(unittest.TestCase):
 
         self.assertGreaterEqual(len(projects), 35)
         self.assertEqual(len(projects), len({project["url"] for project in projects}))
+        self.assertEqual(
+            len(projects),
+            len({project["name"].casefold() for project in projects}),
+        )
         self.assertTrue(all(project["description"].endswith(".") for project in projects))
+
+    def test_rejects_duplicate_urls(self) -> None:
+        markdown = """\
+## Projects
+
+- [Alpha](https://example.com/project) - The first project.
+- [Beta](https://example.com/project) - The same URL.
+"""
+
+        with self.assertRaisesRegex(ValueError, "Duplicate project URLs"):
+            parse_projects(markdown)
+
+    def test_rejects_duplicate_names_case_insensitively(self) -> None:
+        markdown = """\
+## Projects
+
+- [Example](https://example.com/one) - The first project.
+- [example](https://example.com/two) - The same name.
+"""
+
+        with self.assertRaisesRegex(ValueError, "Duplicate project names"):
+            parse_projects(markdown)
+
+    def test_rejects_entries_out_of_alphabetical_order(self) -> None:
+        markdown = """\
+## Projects
+
+- [Beta](https://example.com/two) - The second project.
+- [Alpha](https://example.com/one) - The first project.
+"""
+
+        with self.assertRaisesRegex(ValueError, "not alphabetized"):
+            parse_projects(markdown)
 
 
 if __name__ == "__main__":

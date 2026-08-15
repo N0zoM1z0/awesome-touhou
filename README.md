@@ -2,7 +2,11 @@
 
 An opinionated guide to the best open-source tools, preservation projects, fangames, and community resources for Touhou Project.
 
-**Browse and filter the collection at [n0zom1z0.github.io/awesome-touhou](https://n0zom1z0.github.io/awesome-touhou/).**
+Browse and filter the collection at [n0zom1z0.github.io/awesome-touhou](https://n0zom1z0.github.io/awesome-touhou/).
+
+This is a curated collection, not an exhaustive directory. Projects are selected for their usefulness, distinct value, documentation, and direct relevance to Touhou; popularity is only one signal. Mature or historical projects and resources from non-English communities are welcome when they remain valuable.
+
+Awesome Touhou is an unofficial community project and is not affiliated with ZUN or Team Shanghai Alice. The [CC0 dedication](LICENSE) applies only to this list's original text and structured data; linked projects and Touhou-related works retain their respective rights and licenses.
 
 ## Contents
 
@@ -75,7 +79,7 @@ _Engines and authoring tools for building Touhou-style games and scripts._
 
 _Launchers, mods, and netplay improvements for Touhou fighting games._
 
-- [giuroll](https://github.com/Giufin/giuroll) - A rollback netcode mod with replay improvements for Touhou Hisoutensoku.
+- [giuroll](https://github.com/Hagb/giuroll-hagb) - A maintained successor to the original Giuroll rollback netcode mod, with replay improvements for Touhou Hisoutensoku.
 - [Soku Launcher](https://github.com/0Miles/soku-launcher) - A dedicated launcher for Touhou Hisoutensoku.
 - [SokuMods](https://github.com/SokuDev/SokuMods) - A collected, reproducible source tree for SWRSToys, SokuEngine, and their Hisoutensoku modules.
 

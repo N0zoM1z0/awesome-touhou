@@ -6,6 +6,7 @@ from __future__ import annotations
 import json
 import re
 import shutil
+from collections import Counter, defaultdict
 from pathlib import Path
 
 
@@ -64,10 +65,34 @@ def parse_projects(markdown: str) -> list[dict[str, str]]:
     if not projects:
         raise ValueError("No project entries were found in README.md")
 
-    urls = [project["url"] for project in projects]
-    duplicates = sorted({url for url in urls if urls.count(url) > 1})
-    if duplicates:
-        raise ValueError(f"Duplicate project URLs: {', '.join(duplicates)}")
+    duplicate_urls = sorted(
+        url for url, count in Counter(project["url"] for project in projects).items()
+        if count > 1
+    )
+    if duplicate_urls:
+        raise ValueError(f"Duplicate project URLs: {', '.join(duplicate_urls)}")
+
+    duplicate_names = sorted(
+        name for name, count in Counter(
+            project["name"].casefold() for project in projects
+        ).items()
+        if count > 1
+    )
+    if duplicate_names:
+        raise ValueError(f"Duplicate project names: {', '.join(duplicate_names)}")
+
+    sections: dict[tuple[str, str], list[str]] = defaultdict(list)
+    for project in projects:
+        sections[(project["group"], project["category"])].append(project["name"])
+
+    for (group_name, category_name), names in sections.items():
+        expected = sorted(names, key=str.casefold)
+        if names != expected:
+            section = category_name if group_name != category_name else group_name
+            raise ValueError(
+                f"Entries in {section!r} are not alphabetized: "
+                f"expected {', '.join(expected)}"
+            )
 
     return projects
 

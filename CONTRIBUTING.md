@@ -24,7 +24,7 @@ Good fits include:
 - Game-development engines, libraries, formats, and source releases.
 - Translation and localization infrastructure.
 - Music databases, metadata tools, playback tools, extraction tools, and reusable datasets.
-- Open-source fangames and substantial Touhou mods for other games.
+- Open-source fangames, substantial Touhou mods, and curated indexes of Touhou content in other games.
 - High-quality multilingual knowledge bases and community utilities.
 
 Usually out of scope:

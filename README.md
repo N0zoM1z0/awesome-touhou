@@ -36,7 +36,7 @@ _Official guidance and trusted sources for official and authorized news._
 
 - [Touhou Project Fan Creator Guidelines](https://touhou-project.news/guideline/) - The official multilingual guidelines for fan works, distribution, monetization, crowdfunding, and other derivative activities.
 - [Touhou Yomoyama News](https://touhou-project.news/) - A committee-run hub for official and authorized Touhou Project news, with ZUN serving as honorary chair.
-- [公認作品](https://touhou-project.news/products/) - The official catalog of authorized Touhou games, books, music, merchandise, and other products, filterable by release date, category, and publisher.
+- [公認作品](https://touhou-project.news/products/) - The official catalog of authorized Touhou games, books, music, merchandise, and other products, filterable by release date, category, and company.
 
 ### Getting Started
 
@@ -71,7 +71,7 @@ _Tools for configuring controls and connecting games to other applications._
 
 _Tools that improve or replace online play in official Touhou games._
 
-- [Ju.N.Owen](https://github.com/progre/junowen) - An alternative Touhou 19 netplay layer with adjustable delay, shared and reserved rooms, direct P2P connections, and spectating.
+- [Ju.N.Owen](https://github.com/progre/junowen) - An alternative netplay layer for Touhou 19 v1.10c with adjustable delay, shared and reserved rooms, direct P2P connections, and spectating.
 
 ### Patching and Modding
 
@@ -91,7 +91,7 @@ _Core tools for patching game data, translating games, and building mods._
 
 _Guides, events, and community resources for learning, scoring, survival, and competitive play._
 
-- [The Danmaku Gameplay Wiki](https://wiki.maribelhearn.com/wiki/Main_Page) - A gameplay-focused wiki with beginner guidance, mechanics, routes, scoring resources, and strategy for official Touhou shooting games.
+- [The Danmaku Gameplay Wiki](https://wiki.maribelhearn.com/wiki/Main_Page) - A gameplay-focused wiki covering mechanics, strategy, scoring, and competitive play for official Touhou shooting games.
 - [Touhou World Cup](https://touhouworldcup.com/) - The hub for an annual international Touhou shooting-game competition, with rules, schedules, results, and multilingual broadcasts.
 - [東方Project攻略 Wiki](https://wikiwiki.jp/thk/) - A Japanese strategy wiki with stage routes, mechanics, scoring notes, replay references, and bug documentation across the official shooting games.
 
@@ -134,12 +134,11 @@ _Engines and authoring tools for building Touhou-style games and scripts._
 
 ## Fighting Games
 
-_Launchers, mods, netplay improvements, and onboarding resources for Touhou fighting games._
+_Launchers, mods, and netplay improvements for Touhou fighting games._
 
 - [giuroll](https://github.com/Hagb/giuroll-hagb) - A maintained successor to the original Giuroll rollback netcode mod, with replay improvements for Touhou Hisoutensoku.
 - [Soku Launcher](https://github.com/0Miles/soku-launcher) - A dedicated launcher for Touhou Hisoutensoku.
 - [SokuMods](https://github.com/SokuDev/SokuMods) - A collected, reproducible source tree for SWRSToys, SokuEngine, and their Hisoutensoku modules.
-- [Touhou Hisoutensoku Portal](https://soku.delthas.fr/) - A modern onboarding hub for Hisoutensoku, covering legal acquisition, setup, current launcher and netplay, learning resources, and active communities.
 
 ## Music and Data
 
@@ -175,7 +174,7 @@ _Curated references, publications, community tools, and multilingual knowledge b
 - [Fumo Guides](https://fumo.website/) - Community-maintained guides and structured information about Touhou Fumo plushes.
 - [Maribel Hearn's Touhou Portal](https://maribelhearn.com/) - A privacy-friendly collection of game tools, replay and scoring resources, and community references.
 - [THBWiki](https://thwiki.cc/) - A Chinese-language Touhou encyclopedia and community database with extensive music, event, and publication coverage.
-- [Touhou Garakuta Magazine](https://en.touhougarakuta.com/) - A multilingual Touhou and doujin-culture publication featuring current news, interviews, reports, criticism, and creator-focused coverage.
+- [Touhou Garakuta Magazine](https://touhougarakuta.com/) - A multilingual Touhou and doujin-culture publication featuring current news, interviews, reports, criticism, and creator-focused coverage.
 - [Touhou Wiki](https://en.touhouwiki.net/) - A multilingual community encyclopedia covering official works, characters, gameplay, music, and fan culture.
 
 ## Contributing

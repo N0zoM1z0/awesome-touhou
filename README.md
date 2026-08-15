@@ -124,6 +124,7 @@ _Tools and datasets for identifying, tagging, extracting, and playing Touhou mus
 - [foo_thbgm](https://github.com/nyfair/foo_thbgm) - A foobar2000 component that directly plays BGM from Touhou games and related fangames.
 - [Touhou Music Database](https://github.com/solaasan/Touhou-Music-Database) - A database for reverse-searching Touhou music arrangements.
 - [Touhou Music Extractor](https://github.com/lyons/touhou_music_extractor) - A command-line tool for extracting music files from Touhou games.
+- [TouHou Player](https://github.com/BearKidsTeam/thplayer) - A cross-platform BGM player that reads music directly from Touhou game installations, supporting Touhou 6 through Touhou 19 and several spin-off shooters.
 - [Touhou Song Sorter](https://github.com/relick/touhou-song-sorter) - An interactive sorter for ranking favorite Touhou songs.
 - [Touhou Tagger](https://github.com/the1812/Touhou-Tagger) - Fills Touhou Project CD track metadata using information from THBWiki.
 - [TouhouThemeDB](https://github.com/thpatch/TouhouThemeDB) - A MediaWiki extension that provides structured data for canonical Touhou music themes.

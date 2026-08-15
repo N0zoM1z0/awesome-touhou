@@ -56,6 +56,7 @@ jobs:
             --exclude '^https://www\.thpatch\.net/wiki/Touhou_Patch_Center:Download$'
             README.md
             CONTRIBUTING.md
+            historical.md
             website/static/index.html
           fail: true
           jobSummary: true

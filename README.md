@@ -59,6 +59,7 @@ _Tools for organizing, launching, and running Touhou games across platforms._
 _Tools for configuring controls and connecting games to other applications._
 
 - [thkmc](https://github.com/wz520/thkmc) - Adds custom key mappings to supported Touhou STGs by patching their executables.
+- [ThMouseX](https://github.com/Meigyoku-Thmn/ThMouseX) - Enables mouse control for official Touhou shooting games, with preconfigured support for Touhou 6 through Touhou 20.
 - [TouhouKeymap](https://github.com/devinacker/TouhouKeymap) - A thcrap plugin that adds per-game configurable keyboard controls to supported official Touhou games.
 - [TouhouRPC](https://github.com/TheBakaRem/TouhouRPC) - Adds Discord Rich Presence support to Touhou games.
 
@@ -68,6 +69,8 @@ _Core tools for patching game data, translating games, and building mods._
 
 - [thcrap](https://github.com/thpatch/thcrap) - The community patching, translation, and modding framework for Touhou games.
 - [thtk](https://github.com/thpatch/thtk) - A command-line toolkit for extracting, creating, compiling, and decompiling Touhou game data.
+- [Touhou 6 APWorld](https://github.com/Nepley/eosd-apworld) - Adds Embodiment of Scarlet Devil to the Archipelago multi-game randomizer, with configurable stage, resource, difficulty, and Extra Stage progression.
+- [Touhou 7 APWorld](https://github.com/Nepley/pcb-apworld) - Adds Perfect Cherry Blossom to the Archipelago multi-game randomizer, with configurable stage, resource, difficulty, Extra Stage, and Phantasm Stage progression.
 - [Touhou 8 APWorld](https://github.com/Nepley/in-apworld) - Adds Imperishable Night to the Archipelago multi-game randomizer, with configurable team, stage, time, Spell Practice, and Extra Stage progression.
 - [truth](https://github.com/ExpHP/truth) - A multipass compiler and decompiler suite for binary script formats used by Touhou shooting games.
 
@@ -124,6 +127,7 @@ _Tools and datasets for identifying, tagging, extracting, and playing Touhou mus
 - [foo_thbgm](https://github.com/nyfair/foo_thbgm) - A foobar2000 component that directly plays BGM from Touhou games and related fangames.
 - [Touhou Music Database](https://github.com/solaasan/Touhou-Music-Database) - A database for reverse-searching Touhou music arrangements.
 - [Touhou Music Extractor](https://github.com/lyons/touhou_music_extractor) - A command-line tool for extracting music files from Touhou games.
+- [TouHou Player](https://github.com/BearKidsTeam/thplayer) - A cross-platform BGM player that reads music directly from Touhou game installations, supporting Touhou 6 through Touhou 19 and several spin-off shooters.
 - [Touhou Song Sorter](https://github.com/relick/touhou-song-sorter) - An interactive sorter for ranking favorite Touhou songs.
 - [Touhou Tagger](https://github.com/the1812/Touhou-Tagger) - Fills Touhou Project CD track metadata using information from THBWiki.
 - [TouhouThemeDB](https://github.com/thpatch/TouhouThemeDB) - A MediaWiki extension that provides structured data for canonical Touhou music themes.

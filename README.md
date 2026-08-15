@@ -71,6 +71,7 @@ _Core tools for patching game data, translating games, and building mods._
 - [thtk](https://github.com/thpatch/thtk) - A command-line toolkit for extracting, creating, compiling, and decompiling Touhou game data.
 - [Touhou 6 APWorld](https://github.com/Nepley/eosd-apworld) - Adds Embodiment of Scarlet Devil to the Archipelago multi-game randomizer, with configurable stage, resource, difficulty, and Extra Stage progression.
 - [Touhou 7 APWorld](https://github.com/Nepley/pcb-apworld) - Adds Perfect Cherry Blossom to the Archipelago multi-game randomizer, with configurable stage, resource, difficulty, Extra Stage, and Phantasm Stage progression.
+- [Touhou 8 APWorld](https://github.com/Nepley/in-apworld) - Adds Imperishable Night to the Archipelago multi-game randomizer, with configurable team, stage, time, Spell Practice, and Extra Stage progression.
 - [truth](https://github.com/ExpHP/truth) - A multipass compiler and decompiler suite for binary script formats used by Touhou shooting games.
 
 ## Gameplay, Replays, and Scoring

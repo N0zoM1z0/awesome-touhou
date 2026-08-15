@@ -1,14 +1,10 @@
-# Awesome Touhou [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# [Awesome Touhou](https://n0zom1z0.github.io/awesome-touhou/) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <p align="center">
   <a href="https://n0zom1z0.github.io/awesome-touhou/"><img src="website/static/favicon.svg" width="96" alt="Awesome Touhou logo"></a>
 </p>
 
 Bullet hell shoot 'em up game series and doujin media franchise created by ZUN.
-
-Browse and filter the collection at [n0zom1z0.github.io/awesome-touhou](https://n0zom1z0.github.io/awesome-touhou/).
-
-This is a curated collection, not an exhaustive directory. Projects are selected for their usefulness, distinct value, documentation, and direct relevance to Touhou; popularity is only one signal. Mature projects and resources from non-English communities are welcome when they remain valuable.
 
 ## Contents
 

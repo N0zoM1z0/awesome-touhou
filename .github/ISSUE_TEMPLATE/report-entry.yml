@@ -1,0 +1,44 @@
+name: Report an entry update
+description: Tell us about a broken, moved, outdated, or superseded entry.
+title: "[Entry update] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping keep the list accurate. A short note is enough—we will investigate the details.
+
+  - type: input
+    id: entry
+    attributes:
+      label: Entry name or URL
+      placeholder: Project name or https://...
+    validations:
+      required: true
+
+  - type: dropdown
+    id: change
+    attributes:
+      label: What changed?
+      options:
+        - The link is broken
+        - The project moved or was renamed
+        - The description is outdated
+        - A maintained fork or successor exists
+        - Something else
+    validations:
+      required: true
+
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Share what you noticed and any supporting context.
+    validations:
+      required: true
+
+  - type: input
+    id: replacement
+    attributes:
+      label: Replacement URL
+      description: Optional, if the project moved or has a maintained successor.
+      placeholder: https://example.com/

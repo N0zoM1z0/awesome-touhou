@@ -36,6 +36,16 @@ Usually out of scope:
 - Piracy, unauthorized game downloads, asset dumps, and reuploads of copyrighted works.
 - Referral links, affiliate links, advertisements, and self-promotional spam.
 
+Tools that extract or transform data from a user's legally obtained copy can be in scope. They must not bundle or redistribute copyrighted game assets, music, books, or other original content.
+
+## Languages
+
+The list and all entry descriptions are maintained in English so the catalog stays consistent and searchable. Projects and resources in Japanese, Chinese, or any other language are first-class candidates: describe their documentation and interface languages accurately, and evaluate them on their usefulness rather than the contributor's or author's location.
+
+## Forks and Successors
+
+Prefer the original upstream project when it remains maintained and recommended. A maintained fork or successor may replace it when the original is inactive and the newer project has clearly continued the work or gained real adoption. Explain the relationship in the entry description, and avoid listing near-identical forks unless each serves a meaningfully different audience or use case.
+
 ## Historical Projects
 
 Inactive or archived projects may be accepted when they have clear preservation, research, source-reference, or historical value. Place them in **Historical and Reference Projects** and explain why they remain useful. A recent commit is not required for mature tools that still work, but broken or superseded projects must not be presented as current recommendations.

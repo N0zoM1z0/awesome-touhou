@@ -215,6 +215,7 @@ _Curated references, publications, community tools, and multilingual knowledge b
 - [Maribel Hearn's Touhou Portal](https://maribelhearn.com/) - A privacy-friendly collection of game tools, replay and scoring resources, and community references.
 - [THBWiki](https://thwiki.cc/) - A Chinese-language Touhou encyclopedia and community database with extensive music, event, and publication coverage.
 - [Touhou Garakuta Magazine](https://touhougarakuta.com/) - A multilingual Touhou and doujin-culture publication featuring current news, interviews, reports, criticism, and creator-focused coverage.
+- [Touhou Mystia's Izakaya Assistant](https://izakaya.cc/) - A Chinese-language companion database for Touhou Mystia's Izakaya with customer effects, meal planning, recipes, drinks, ingredients, equipment, and collection lookups.
 - [Touhou Wiki](https://en.touhouwiki.net/) - A multilingual community encyclopedia covering official works, characters, gameplay, music, and fan culture.
 
 ## Contributing

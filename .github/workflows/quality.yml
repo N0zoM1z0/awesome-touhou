@@ -52,6 +52,7 @@ jobs:
             --max-retries 3
             --no-progress
             --exclude '^https://en\.touhouwiki\.net/.*$'
+            --exclude '^https://jam\.touhou\.dev/$'
             --exclude '^https://thwiki\.cc/$'
             --exclude '^https://thwiki\.cc/%E6%97%A5%E7%A8%8B%E8%A1%A8$'
             --exclude '^https://www\.godosai\.com/$'

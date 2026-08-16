@@ -158,14 +158,22 @@ _Tools, databases, and distribution resources for identifying, tagging, extracti
 
 _Playable fan games whose source code is publicly available._
 
+- [Cirno's Perfect Snowglide](https://github.com/wareya/Cirnos-Perfect-Snowglide) - An ice-physics platformer in which Cirno snowboards through stages, built with Godot and playable on the web, Windows, and Linux.
+- [Kutaka Run](https://github.com/ax9880/kutaka-run) - A Cookie Run-inspired platformer where Kutaka runs, jumps, slides, and collects ingredients, with story stages, an Extra Stage, and browser and Windows builds.
+- [Minecraft VS Zombies 2](https://github.com/Cuerzor/MinecraftVsZombies2Unity) - A Unity tower-defense crossover combining Plants vs. Zombies mechanics, Minecraft elements, and a Touhou story set in Gensokyo, with Windows, Linux, and Android builds.
+- [Mizuchi Takeover HD](https://github.com/ax9880/mizuchi-takeover) - A least-cost-path puzzle about navigating Touhou character appearances to reach Reimu, with browser and Windows builds and local two-player play.
+- [Stages!](https://github.com/ax9880/stages) - A Touhou matching-card game where players assemble stage-character sets from the same game, with browser play and up to four-player LAN multiplayer in the desktop build.
 - [Taisei](https://github.com/taisei-project/taisei) - A polished, free, and open-source Touhou-style bullet hell game for desktop platforms and the web.
 
 ## Touhou in Other Games
 
 _Substantial Touhou-themed mods and curated resources for Touhou content in other games._
 
+- [Esoterica Origins](https://github.com/wdfeer/esoterica-origins) - A Fabric add-on for Minecraft Origins with dozens of Touhou-inspired origins, distinct character playstyles, custom Graze and Flawless effects, and documented powers.
+- [Gensokyo](https://steamcommunity.com/sharedfiles/filedetails/?id=2817254924) - A large tModLoader content mod for Terraria adding Touhou bosses, enemies, hundreds of items, mini-biomes, a custom subworld, music, and multiplayer support.
 - [Touhou Little Maid](https://github.com/TartaricAcid/TouhouLittleMaid) - A Forge and NeoForge Minecraft mod that adds customizable Touhou-inspired maids, combat, farming, and other systems.
 - [Touhou osu! Index](https://github.com/N0zoM1z0/touhou-osu-index) - An open, reproducible, automatically maintained catalog of Touhou music mapped in osu!, with provenance, confidence-based review, and JSON and CSV exports.
+- [Touhou Stellar Chronicles ~ Symphony of Phantasm](https://steamcommunity.com/sharedfiles/filedetails/?id=1834433554) - A large Stellaris content mod adding Touhou species, leaders, events, a Spiritual Power and Spell Card technology tree, custom economies, planets, megastructures, ships, and crises.
 
 ## Knowledge and Community
 
@@ -183,4 +191,4 @@ Contributions are welcome. Please read the [contribution guidelines](CONTRIBUTIN
 
 ## Footnotes
 
-Awesome Touhou is an unofficial community project and is not affiliated with ZUN or Team Shanghai Alice. Inactive and superseded resources with lasting research or preservation value are kept in [Historical and Reference Projects](historical.md).
+Awesome Touhou is an unofficial community project and is not affiliated with ZUN or Team Shanghai Alice. Superseded and reference-only resources with lasting research or preservation value are kept in [Historical and Reference Projects](historical.md).

@@ -228,6 +228,7 @@ _Curated references, publications, community tools, and multilingual knowledge b
 - [Touhou Garakuta Magazine](https://touhougarakuta.com/) - A multilingual Touhou and doujin-culture publication featuring current news, interviews, reports, criticism, and creator-focused coverage.
 - [Touhou Mystia's Izakaya Assistant](https://izakaya.cc/) - A Chinese-language companion for Touhou Mystia's Izakaya with guest references, meal planning, and searchable data for recipes, drinks, ingredients, equipment, and other collectibles.
 - [Touhou Wiki](https://en.touhouwiki.net/) - A multilingual community encyclopedia covering official works, characters, gameplay, music, and fan culture.
+- [中文东方人气投票](https://touhou.vote/) - A Chinese-language Touhou popularity-poll archive with recurring character, music, work, and game polls, questionnaires, and detailed published results.
 
 ## Contributing
 

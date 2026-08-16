@@ -122,6 +122,7 @@ _Active scoreboards and preserved collections of historical Touhou replays._
 _Source reconstruction and technical research that preserve how the games work._
 
 - [ReC98](https://github.com/nmlgc/ReC98) - Reconstructs readable, binary-equivalent source code for the five PC-98 Touhou games.
+- [Touhou 10.5 Source Reconstruction](https://github.com/N0zoM1z0/th105) - Reconstructs Scarlet Weather Rhapsody version 1.06a with reproducible binary comparison, machine-readable function tracking, and documented IDA and Ghidra workflows.
 - [Touhou 6 Decompilation](https://github.com/GensokyoClub/th06) - A decompilation of Embodiment of Scarlet Devil version 1.02h.
 - [Touhou 7 Decompilation](https://github.com/some100/th07) - A fully implemented, nearly byte-accurate decompilation of Perfect Cherry Blossom version 1.00b, with cross-platform porting branches.
 - [Touhou 8 Agent-First Source Reconstruction](https://github.com/N0zoM1z0/th08) - An agent-first continuation of the GensokyoClub decompilation, with reproducible binary matching and documented reverse-engineering workflows.

@@ -135,6 +135,7 @@ _Engines and authoring tools for building Touhou-style games and scripts._
 - [LuaSTG Sub](https://github.com/Legacy-LuaSTG-Engine/LuaSTG-Sub) - A maintained modern LuaSTG engine that moves rendering and audio to newer Windows APIs.
 - [Sparen's Danmakufu Application Monitoring System](https://github.com/Sparen/Sparen-DNH-APM) - Profiles Touhou Danmakufu ph3 scripts and generates per-run and aggregate reports for FPS, graze, score, enemy-shot counts, bombs, deaths, and user-defined metrics.
 - [Sparen's Danmakufu ph3 Tutorials](https://sparen.github.io/ph3tutorials/ph3tutorials.html) - A peer-reviewed, step-by-step curriculum for learning Danmakufu ph3 scripting, with references and documentation backups.
+- [Sparen's Danmakufu Standard Library](https://github.com/Sparen/Sparen-DNH-STL) - Provides standalone data structures, bitwise and math helpers, and text-formatting utilities for Touhou Danmakufu ph3, with unit and integration tests.
 - [Touhou Danmakufu ph3sx-2](https://github.com/Natashi/Touhou-Danmakufu-ph3sx-2) - A performance-oriented Danmakufu ph3 fork with expanded scripting and archive features.
 
 ## Fighting Games

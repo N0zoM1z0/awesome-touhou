@@ -77,6 +77,7 @@ _Tools that improve or replace online play in official Touhou games._
 
 _Core tools for patching game data, translating games, and building mods._
 
+- [MetaMystia](https://github.com/MetaMystia/MetaMystia) - Adds cooperative multiplayer to Touhou Mystia's Izakaya, synchronizing restaurant play between friends and providing ResourceEx support for custom resources.
 - [neopatch](https://github.com/astral4/neopatch) - An open-source patch that reduces end-to-end latency and adds optimizations and game-specific fixes across sixteen official Touhou shooting games.
 - [thcrap](https://github.com/thpatch/thcrap) - The community patching, translation, and modding framework for Touhou games.
 - [thtk](https://github.com/thpatch/thtk) - A command-line toolkit for extracting, creating, compiling, and decompiling Touhou game data.

@@ -174,6 +174,7 @@ _Substantial Touhou-themed mods and curated resources for Touhou content in othe
 
 - [Esoterica Origins](https://github.com/wdfeer/esoterica-origins) - A Fabric add-on for Minecraft Origins with dozens of Touhou-inspired origins, distinct character playstyles, custom Graze and Flawless effects, and documented powers.
 - [Gensokyo](https://steamcommunity.com/sharedfiles/filedetails/?id=2817254924) - A large tModLoader content mod for Terraria adding Touhou bosses, enemies, hundreds of items, mini-biomes, a custom subworld, music, and multiplayer support.
+- [Gensokyo Railway](https://github.com/NewSapporoNingyo/BVE-Gensokyo-Railway) - A multilingual Bve Trainsim route set in Gensokyo, featuring a completed 22-station loop line with local, rapid, and limited-express services.
 - [Touhou Little Maid](https://github.com/TartaricAcid/TouhouLittleMaid) - A Forge and NeoForge Minecraft mod that adds customizable Touhou-inspired maids, combat, farming, and other systems.
 - [Touhou osu! Index](https://github.com/N0zoM1z0/touhou-osu-index) - An open, reproducible, automatically maintained catalog of Touhou music mapped in osu!, with provenance, confidence-based review, and JSON and CSV exports.
 - [Touhou Stellar Chronicles ~ Symphony of Phantasm](https://steamcommunity.com/sharedfiles/filedetails/?id=1834433554) - A large Stellaris content mod adding Touhou species, leaders, events, a Spiritual Power and Spell Card technology tree, custom economies, planets, megastructures, ships, and crises.

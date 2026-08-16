@@ -105,6 +105,7 @@ _Guides and community resources for learning, scoring, survival, and competitive
 
 _Tools for practice, replay inspection, and live gameplay analysis._
 
+- [ParaKit](https://github.com/Guy-L/parakit) - Extracts frame-by-frame gameplay state from supported Touhou shooters for built-in and custom Python analysis, including entity plots, bullet-count graphs, and heatmaps.
 - [thhyl](https://github.com/wz520/thhyl) - A desktop viewer for metadata stored in Touhou STG replay (`.rpy`) files.
 - [thprac](https://github.com/touhouworldcup/thprac) - A comprehensive practice tool for official Touhou shooting games.
 - [threp](https://github.com/wasupandceacar/threp) - Parses Touhou replay metadata and recorded input sequences.

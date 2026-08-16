@@ -145,6 +145,7 @@ _Launchers, mods, and netplay improvements for Touhou fighting games._
 
 - [giuroll](https://github.com/Hagb/giuroll-hagb) - A maintained successor to the original Giuroll rollback netcode mod, with replay improvements for Touhou Hisoutensoku.
 - [Soku Launcher](https://github.com/0Miles/soku-launcher) - A dedicated launcher for Touhou Hisoutensoku.
+- [SokuDirectXOptimizations](https://github.com/Hagb/SokuDirectXOptimizations) - A Hisoutensoku mod that reduces frame-drop slowdowns by decoupling rendering from game processing, speeds texture loading, and adds DirectX 9Ex and optional VSync support.
 - [SokuMods](https://github.com/SokuDev/SokuMods) - A collected, reproducible source tree for SWRSToys, SokuEngine, and their Hisoutensoku modules.
 
 ## Music and Data

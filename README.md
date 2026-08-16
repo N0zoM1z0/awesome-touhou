@@ -58,6 +58,7 @@ _Tools for organizing, launching, and running Touhou games across platforms._
 
 - [9Launcher](https://github.com/wearrrrr/9Launcher) - A Windows and Linux launcher with support for official Touhou games, thcrap, DOSBox-X, Proton, and Wine.
 - [thcrap Steam Proton Wrapper](https://github.com/nerusuki/thcrap-steam-proton-wrapper) - Launches official Steam releases with thcrap patches through Proton on GNU/Linux.
+- [thcrap-menu](https://github.com/philipguin/thcrap-menu) - A controller-friendly menu for choosing per-game thcrap configurations from a single Windows or Steam Deck/Proton shortcut.
 - [Touhou Linux Guide](https://daichungus.github.io/touhoulinuxguide/) - A practical guide to running Windows-era and PC-98 Touhou games on Linux with Wine, Lutris, DOSBox-X, and Neko Project II Kai.
 - [Touhou Steam Executable Patches](https://github.com/MisterMonstr/2hu_steam-exe_to_disc-exe) - Converts supported Steam executables to their original disc form for compatibility with tools such as vpatch.
 - [Universal THCRAP Launcher](https://github.com/thpatch/Universal-THCRAP-Launcher) - A universal game launcher for thcrap configurations.
@@ -81,7 +82,8 @@ _Tools that improve or replace online play in official Touhou games._
 
 _Core tools for patching game data, translating games, and building mods._
 
-- [MetaMystia](https://github.com/MetaMystia/MetaMystia) - Adds cooperative multiplayer to Touhou Mystia's Izakaya, synchronizing restaurant play between friends and providing ResourceEx support for custom resources.
+- [Ladybug Randomizer](https://github.com/Lakifume/Ladybug-Randomizer) - A Touhou Luna Nights randomizer with logic-aware item placement, enemy and music shuffling, reverse mode, and a built-in item tracker.
+- [MetaMystia](https://github.com/MetaMystia/MetaMystia) - A cooperative multiplayer mod for Touhou Mystia's Izakaya that synchronizes restaurant play between friends and includes ResourceEx support for custom resources.
 - [neopatch](https://github.com/astral4/neopatch) - An open-source patch that reduces end-to-end latency and adds optimizations and game-specific fixes across sixteen official Touhou shooting games.
 - [thcrap](https://github.com/thpatch/thcrap) - The community patching, translation, and modding framework for Touhou games.
 - [thtk](https://github.com/thpatch/thtk) - A command-line toolkit for extracting, creating, compiling, and decompiling Touhou game data.
@@ -122,7 +124,7 @@ _Active scoreboards and preserved collections of historical Touhou replays._
 _Source reconstruction and technical research that preserve how the games work._
 
 - [ReC98](https://github.com/nmlgc/ReC98) - Reconstructs readable, binary-equivalent source code for the five PC-98 Touhou games.
-- [Touhou 10.5 Source Reconstruction](https://github.com/N0zoM1z0/th105) - Reconstructs Scarlet Weather Rhapsody version 1.06a with reproducible binary comparison, machine-readable function tracking, and documented IDA and Ghidra workflows.
+- [Touhou 10.5 Source Reconstruction](https://github.com/N0zoM1z0/th105) - A source reconstruction of Scarlet Weather Rhapsody 1.06a using reproducible binary comparison, machine-readable function tracking, and documented IDA and Ghidra workflows.
 - [Touhou 6 Decompilation](https://github.com/GensokyoClub/th06) - A decompilation of Embodiment of Scarlet Devil version 1.02h.
 - [Touhou 7 Decompilation](https://github.com/some100/th07) - A fully implemented, nearly byte-accurate decompilation of Perfect Cherry Blossom version 1.00b, with cross-platform porting branches.
 - [Touhou 8 Agent-First Source Reconstruction](https://github.com/N0zoM1z0/th08) - An agent-first continuation of the GensokyoClub decompilation, with reproducible binary matching and documented reverse-engineering workflows.
@@ -134,9 +136,9 @@ _Engines and authoring tools for building Touhou-style games and scripts._
 
 - [LuaSTG Editor Sharp X](https://github.com/Sharp-X-Team/LuaSTG-Editor-Sharp-X) - A graphical code generator for authoring LuaSTG games across multiple engine variants.
 - [LuaSTG Sub](https://github.com/Legacy-LuaSTG-Engine/LuaSTG-Sub) - A maintained modern LuaSTG engine that moves rendering and audio to newer Windows APIs.
-- [Sparen's Danmakufu Application Monitoring System](https://github.com/Sparen/Sparen-DNH-APM) - Profiles Touhou Danmakufu ph3 scripts and generates per-run and aggregate reports for FPS, graze, score, enemy-shot counts, bombs, deaths, and user-defined metrics.
+- [Sparen's Danmakufu Application Monitoring System](https://github.com/Sparen/Sparen-DNH-APM) - A profiler for Touhou Danmakufu ph3 scripts that records gameplay and performance metrics and produces HTML and CSV reports for individual or repeated runs.
 - [Sparen's Danmakufu ph3 Tutorials](https://sparen.github.io/ph3tutorials/ph3tutorials.html) - A peer-reviewed, step-by-step curriculum for learning Danmakufu ph3 scripting, with references and documentation backups.
-- [Sparen's Danmakufu Standard Library](https://github.com/Sparen/Sparen-DNH-STL) - Provides standalone data structures, bitwise and math helpers, and text-formatting utilities for Touhou Danmakufu ph3, with unit and integration tests.
+- [Sparen's Danmakufu Standard Library](https://github.com/Sparen/Sparen-DNH-STL) - A collection of reusable Touhou Danmakufu ph3 libraries for data structures, bitwise and math helpers, and text formatting, with unit and integration tests.
 - [Touhou Danmakufu ph3sx-2](https://github.com/Natashi/Touhou-Danmakufu-ph3sx-2) - A performance-oriented Danmakufu ph3 fork with expanded scripting and archive features.
 
 ## Fighting Games
@@ -145,7 +147,7 @@ _Launchers, mods, and netplay improvements for Touhou fighting games._
 
 - [giuroll](https://github.com/Hagb/giuroll-hagb) - A maintained successor to the original Giuroll rollback netcode mod, with replay improvements for Touhou Hisoutensoku.
 - [Soku Launcher](https://github.com/0Miles/soku-launcher) - A dedicated launcher for Touhou Hisoutensoku.
-- [SokuDirectXOptimizations](https://github.com/Hagb/SokuDirectXOptimizations) - A Hisoutensoku mod that reduces frame-drop slowdowns by decoupling rendering from game processing, speeds texture loading, and adds DirectX 9Ex and optional VSync support.
+- [SokuDirectXOptimizations](https://github.com/Hagb/SokuDirectXOptimizations) - A Hisoutensoku mod that decouples rendering from game processing to reduce slowdown from dropped frames, with faster texture loading, DirectX 9Ex, and optional VSync.
 - [SokuMods](https://github.com/SokuDev/SokuMods) - A collected, reproducible source tree for SWRSToys, SokuEngine, and their Hisoutensoku modules.
 
 ## Music and Data
@@ -153,7 +155,7 @@ _Launchers, mods, and netplay improvements for Touhou fighting games._
 _Tools, databases, and distribution resources for identifying, tagging, extracting, discovering, and playing Touhou music._
 
 - [foo_thbgm](https://github.com/nyfair/foo_thbgm) - A foobar2000 component that directly plays BGM from Touhou games and related fangames.
-- [Random Touhou Music](https://github.com/shiroemons/random-touhou-music) - Randomly selects Touhou tracks from Apple Music, Spotify, YouTube Music, and LINE MUSIC for discovery through authorized streaming services.
+- [Random Touhou Music](https://github.com/shiroemons/random-touhou-music) - A web app for discovering Touhou music by randomly selecting tracks available on Apple Music, Spotify, YouTube Music, and LINE MUSIC.
 - [Touhou Music Extractor](https://github.com/lyons/touhou_music_extractor) - A command-line tool for extracting music files from Touhou games.
 - [TouHou Player](https://github.com/BearKidsTeam/thplayer) - A cross-platform BGM player that reads music directly from Touhou game installations, supporting Touhou 6 through Touhou 19 and several spin-off shooters.
 - [Touhou Song Sorter](https://github.com/relick/touhou-song-sorter) - An interactive sorter for ranking favorite Touhou songs.
@@ -168,7 +170,7 @@ _Tools, databases, and distribution resources for identifying, tagging, extracti
 _Playable fan games whose source code is publicly available._
 
 - [Cirno's Perfect Snowglide](https://github.com/wareya/Cirnos-Perfect-Snowglide) - An ice-physics platformer in which Cirno snowboards through stages, built with Godot and playable on the web, Windows, and Linux.
-- [Genso Battle](https://github.com/ax9880/genso-battle) - A Terra Battle-inspired Touhou strategy fangame built with Godot, with a playable release on itch.io and openly licensed source code.
+- [Genso Battle](https://github.com/ax9880/genso-battle) - A Terra Battle-inspired Touhou strategy fangame built with Godot, with a playable itch.io release and MIT-licensed code.
 - [Kutaka Run](https://github.com/ax9880/kutaka-run) - A Cookie Run-inspired platformer where Kutaka runs, jumps, slides, and collects ingredients, with story stages, an Extra Stage, and browser and Windows builds.
 - [Minecraft VS Zombies 2](https://github.com/Cuerzor/MinecraftVsZombies2Unity) - A Unity tower-defense crossover combining Plants vs. Zombies mechanics, Minecraft elements, and a Touhou story set in Gensokyo, with Windows, Linux, and Android builds.
 - [Mizuchi Takeover HD](https://github.com/ax9880/mizuchi-takeover) - A least-cost-path puzzle about navigating Touhou character appearances to reach Reimu, with browser and Windows builds and local two-player play.
@@ -181,7 +183,7 @@ _Substantial Touhou-themed mods and curated resources for Touhou content in othe
 
 - [Esoterica Origins](https://github.com/wdfeer/esoterica-origins) - A Fabric add-on for Minecraft Origins with dozens of Touhou-inspired origins, distinct character playstyles, custom Graze and Flawless effects, and documented powers.
 - [Gensokyo](https://steamcommunity.com/sharedfiles/filedetails/?id=2817254924) - A large tModLoader content mod for Terraria adding Touhou bosses, enemies, hundreds of items, mini-biomes, a custom subworld, music, and multiplayer support.
-- [Gensokyo Railway](https://github.com/NewSapporoNingyo/BVE-Gensokyo-Railway) - A multilingual Bve Trainsim route set in Gensokyo, featuring a completed 22-station loop line with local, rapid, and limited-express services.
+- [Gensokyo Railway](https://github.com/NewSapporoNingyo/BVE-Gensokyo-Railway) - A multilingual Bve Trainsim route set in Gensokyo with a completed 22-station loop line and local, rapid, and limited-express services.
 - [Touhou Little Maid](https://github.com/TartaricAcid/TouhouLittleMaid) - A Forge and NeoForge Minecraft mod that adds customizable Touhou-inspired maids, combat, farming, and other systems.
 - [Touhou osu! Index](https://github.com/N0zoM1z0/touhou-osu-index) - An open, reproducible, automatically maintained catalog of Touhou music mapped in osu!, with provenance, confidence-based review, and JSON and CSV exports.
 - [Touhou Stellar Chronicles ~ Symphony of Phantasm](https://steamcommunity.com/sharedfiles/filedetails/?id=1834433554) - A large Stellaris content mod adding Touhou species, leaders, events, a Spiritual Power and Spell Card technology tree, custom economies, planets, megastructures, ships, and crises.
@@ -223,7 +225,7 @@ _Curated references, publications, community tools, and multilingual knowledge b
 - [Maribel Hearn's Touhou Portal](https://maribelhearn.com/) - A privacy-friendly collection of game tools, replay and scoring resources, and community references.
 - [THBWiki](https://thwiki.cc/) - A Chinese-language Touhou encyclopedia and community database with extensive music, event, and publication coverage.
 - [Touhou Garakuta Magazine](https://touhougarakuta.com/) - A multilingual Touhou and doujin-culture publication featuring current news, interviews, reports, criticism, and creator-focused coverage.
-- [Touhou Mystia's Izakaya Assistant](https://izakaya.cc/) - A Chinese-language companion database for Touhou Mystia's Izakaya with customer effects, meal planning, recipes, drinks, ingredients, equipment, and collection lookups.
+- [Touhou Mystia's Izakaya Assistant](https://izakaya.cc/) - A Chinese-language companion for Touhou Mystia's Izakaya with guest references, meal planning, and searchable data for recipes, drinks, ingredients, equipment, and other collectibles.
 - [Touhou Wiki](https://en.touhouwiki.net/) - A multilingual community encyclopedia covering official works, characters, gameplay, music, and fan culture.
 
 ## Contributing

@@ -44,11 +44,11 @@ The list and all entry descriptions are maintained in English so the catalog sta
 
 ## Forks and Successors
 
-Prefer the original upstream project when it remains maintained and recommended. A maintained fork or successor may replace it when the original is inactive and the newer project has clearly continued the work or gained real adoption. Explain the relationship in the entry description, and avoid listing near-identical forks unless each serves a meaningfully different audience or use case.
+Prefer the original upstream project when it remains the best reference. A fork or successor may replace it when it clearly continues the work, restores compatibility, or has become the recommended version. Explain the relationship in the entry description, and avoid listing near-identical forks unless each serves a meaningfully different audience or use case. Repository activity or archive status alone is not a reason to replace a project.
 
 ## Historical Projects
 
-The main list does not include inactive, archived, deprecated, undocumented, broken, or superseded projects. Resources with clear preservation, research, source-reference, or historical value may instead be documented in [Historical and Reference Projects](historical.md), with an explanation of why they remain useful.
+Repository activity and archive status are not quality gates. Finished, stable, inactive, or archived projects can stay in the main list when they are still useful, documented, and functional. Projects that are broken, obsolete for their intended use, or superseded by a clearly better successor may instead be documented in [Historical and Reference Projects](historical.md) when their source, research, or preservation value remains useful.
 
 ## Entry Format
 
@@ -58,7 +58,7 @@ Use the canonical project name and URL whenever possible. Descriptions must be i
 - [Project Name](https://example.com/) - What it does and why it is useful.
 ```
 
-Keep entries alphabetized within a section. Add one project per pull request so each proposal can be reviewed on its own merits.
+Keep entries alphabetized within a section. Keep pull requests focused. A single project is ideal for a standalone submission; related additions from a coherent curation pass may be grouped when they can be reviewed together.
 
 ## Pull Request Checklist
 

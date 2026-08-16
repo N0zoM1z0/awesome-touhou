@@ -45,9 +45,16 @@ class CatalogParserTests(unittest.TestCase):
         )
 
     def test_repository_catalog_is_unique_and_complete(self) -> None:
-        projects = parse_projects(README.read_text(encoding="utf-8"))
+        markdown = README.read_text(encoding="utf-8")
+        projects = parse_projects(markdown)
+        catalog_markdown = markdown.split("\n## Contributing\n", 1)[0]
+        markdown_entries = [
+            line
+            for line in catalog_markdown.splitlines()
+            if line.startswith("- [") and "](" in line and ") - " in line
+        ]
 
-        self.assertGreaterEqual(len(projects), 76)
+        self.assertEqual(len(projects), len(markdown_entries))
         self.assertEqual(len(projects), len({project["url"] for project in projects}))
         self.assertEqual(
             len(projects),

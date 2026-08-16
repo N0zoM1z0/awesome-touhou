@@ -26,6 +26,10 @@ Bullet hell shoot 'em up game series and doujin media franchise created by ZUN.
 - [Music and Data](#music-and-data)
 - [Open-source Fangames](#open-source-fangames)
 - [Touhou in Other Games](#touhou-in-other-games)
+- [Events and Conventions](#events-and-conventions)
+  - [Conventions and Fan Events](#conventions-and-fan-events)
+  - [Competitions and Creative Events](#competitions-and-creative-events)
+  - [Event Calendars](#event-calendars)
 - [Knowledge and Community](#knowledge-and-community)
 
 ## Official Resources and Getting Started
@@ -89,10 +93,9 @@ _Core tools for patching game data, translating games, and building mods._
 
 ### Strategy and Competitive Play
 
-_Guides, events, and community resources for learning, scoring, survival, and competitive play._
+_Guides and community resources for learning, scoring, survival, and competitive play._
 
 - [The Danmaku Gameplay Wiki](https://wiki.maribelhearn.com/wiki/Main_Page) - A gameplay-focused wiki covering mechanics, strategy, scoring, and competitive play for official Touhou shooting games.
-- [Touhou World Cup](https://touhouworldcup.com/) - The hub for an annual international Touhou shooting-game competition, with rules, schedules, results, and multilingual broadcasts.
 - [東方Project攻略 Wiki](https://wikiwiki.jp/thk/) - A Japanese strategy wiki with stage routes, mechanics, scoring notes, replay references, and bug documentation across the official shooting games.
 
 ### Practice and Replay Tools
@@ -174,6 +177,35 @@ _Substantial Touhou-themed mods and curated resources for Touhou content in othe
 - [Touhou Little Maid](https://github.com/TartaricAcid/TouhouLittleMaid) - A Forge and NeoForge Minecraft mod that adds customizable Touhou-inspired maids, combat, farming, and other systems.
 - [Touhou osu! Index](https://github.com/N0zoM1z0/touhou-osu-index) - An open, reproducible, automatically maintained catalog of Touhou music mapped in osu!, with provenance, confidence-based review, and JSON and CSV exports.
 - [Touhou Stellar Chronicles ~ Symphony of Phantasm](https://steamcommunity.com/sharedfiles/filedetails/?id=1834433554) - A large Stellaris content mod adding Touhou species, leaders, events, a Spiritual Power and Spell Card technology tree, custom economies, planets, megastructures, ships, and crises.
+
+## Events and Conventions
+
+_Recurring Touhou conventions, competitions, creator events, and calendars for finding community gatherings._
+
+### Conventions and Fan Events
+
+_Long-running Touhou-only conventions and organizer hubs for recurring fan events._
+
+- [Hakurei Shrine Reitaisai](https://reitaisai.com/) - The organizer hub for the Touhou-only Reitaisai event series, covering its spring and autumn conventions as well as regional, Taiwan, and music events.
+- [Touhou Kouroumu](https://koromu-toho.sakura.ne.jp/) - A long-running Touhou-only doujin convention in Osaka for fan books, music, goods, games, and other derivative works.
+- [Touhou Meikasai](https://meikasai.com/) - A recurring Touhou-only convention in Nagoya with doujin sales, cosplay, and community activities.
+- [TouhouFest](https://www.touhoufest.org/) - A Touhou-focused fan convention in California with concerts, cosplay activities, gaming tournaments, panels, and community meetups.
+- [大⑨州東方祭](https://www.godosai.com/) - A long-running Touhou-only doujin convention series held across Kyushu by the Goudousai organizing committee.
+- [東方螺茶会](https://www.youyou.co.jp/only/touhou/intro.html) - Studio YOU's organizer hub for recurring Touhou-only doujin events across regions of Japan, with schedules and participation information.
+
+### Competitions and Creative Events
+
+_Recurring events centered on Touhou gameplay and fan-game creation._
+
+- [Touhou Fan Game Jam](https://jam.touhou.dev/) - A recurring community game-jam series in which solo developers and teams create Touhou fangames around announced themes, including main, Pride, and other side jams.
+- [Touhou World Cup](https://touhouworldcup.com/) - The hub for an annual international Touhou shooting-game competition with rules, schedules, results, and multilingual live broadcasts.
+
+### Event Calendars
+
+_Curated schedules for discovering upcoming Touhou events across regions and event types._
+
+- [THBWiki Event Schedule](https://thwiki.cc/%E6%97%A5%E7%A8%8B%E8%A1%A8) - An automatically generated schedule of Touhou events from THBWiki, grouped by region and available as an ICS calendar subscription.
+- [東方イベントカレンダー](https://touhougarakuta.com/tags/error-836/) - Touhou Garakuta Magazine's recurring event-calendar series, covering upcoming doujin conventions, music events, and related gatherings with a shared Google Calendar.
 
 ## Knowledge and Community
 

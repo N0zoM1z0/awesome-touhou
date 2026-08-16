@@ -149,6 +149,7 @@ _Launchers, mods, and netplay improvements for Touhou fighting games._
 _Tools, databases, and distribution resources for identifying, tagging, extracting, discovering, and playing Touhou music._
 
 - [foo_thbgm](https://github.com/nyfair/foo_thbgm) - A foobar2000 component that directly plays BGM from Touhou games and related fangames.
+- [Random Touhou Music](https://github.com/shiroemons/random-touhou-music) - Randomly selects Touhou tracks from Apple Music, Spotify, YouTube Music, and LINE MUSIC for discovery through authorized streaming services.
 - [Touhou Music Extractor](https://github.com/lyons/touhou_music_extractor) - A command-line tool for extracting music files from Touhou games.
 - [TouHou Player](https://github.com/BearKidsTeam/thplayer) - A cross-platform BGM player that reads music directly from Touhou game installations, supporting Touhou 6 through Touhou 19 and several spin-off shooters.
 - [Touhou Song Sorter](https://github.com/relick/touhou-song-sorter) - An interactive sorter for ranking favorite Touhou songs.

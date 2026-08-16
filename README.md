@@ -184,6 +184,7 @@ _Curated references, publications, community tools, and multilingual knowledge b
 - [THBWiki](https://thwiki.cc/) - A Chinese-language Touhou encyclopedia and community database with extensive music, event, and publication coverage.
 - [Touhou Garakuta Magazine](https://touhougarakuta.com/) - A multilingual Touhou and doujin-culture publication featuring current news, interviews, reports, criticism, and creator-focused coverage.
 - [Touhou Wiki](https://en.touhouwiki.net/) - A multilingual community encyclopedia covering official works, characters, gameplay, music, and fan culture.
+- [中文东方人气投票](https://touhou.vote/) - A Chinese-language Touhou popularity poll co-developed by THBWiki and VoileLabs, with searchable character and music voting, questionnaires, and published results.
 
 ## Contributing
 

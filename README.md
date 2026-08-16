@@ -159,6 +159,7 @@ _Tools, databases, and distribution resources for identifying, tagging, extracti
 _Playable fan games whose source code is publicly available._
 
 - [Cirno's Perfect Snowglide](https://github.com/wareya/Cirnos-Perfect-Snowglide) - An ice-physics platformer in which Cirno snowboards through stages, built with Godot and playable on the web, Windows, and Linux.
+- [Genso Battle](https://github.com/ax9880/genso-battle) - A Terra Battle-inspired Touhou strategy fangame built with Godot, with a playable release on itch.io and openly licensed source code.
 - [Kutaka Run](https://github.com/ax9880/kutaka-run) - A Cookie Run-inspired platformer where Kutaka runs, jumps, slides, and collects ingredients, with story stages, an Extra Stage, and browser and Windows builds.
 - [Minecraft VS Zombies 2](https://github.com/Cuerzor/MinecraftVsZombies2Unity) - A Unity tower-defense crossover combining Plants vs. Zombies mechanics, Minecraft elements, and a Touhou story set in Gensokyo, with Windows, Linux, and Android builds.
 - [Mizuchi Takeover HD](https://github.com/ax9880/mizuchi-takeover) - A least-cost-path puzzle about navigating Touhou character appearances to reach Reimu, with browser and Windows builds and local two-player play.

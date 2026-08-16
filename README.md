@@ -137,6 +137,7 @@ _Engines and authoring tools for building Touhou-style games and scripts._
 _Launchers, mods, and netplay improvements for Touhou fighting games._
 
 - [giuroll](https://github.com/Hagb/giuroll-hagb) - A maintained successor to the original Giuroll rollback netcode mod, with replay improvements for Touhou Hisoutensoku.
+- [InGameHostlist](https://github.com/SokuDev/InGameHostlist) - Integrates hostlist bots directly into Touhou Hisoutensoku's network menu, with configurable hosting options, host browsing, spectating, and rough ping estimates.
 - [Soku Launcher](https://github.com/0Miles/soku-launcher) - A dedicated launcher for Touhou Hisoutensoku.
 - [SokuMods](https://github.com/SokuDev/SokuMods) - A collected, reproducible source tree for SWRSToys, SokuEngine, and their Hisoutensoku modules.
 

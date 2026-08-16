@@ -77,6 +77,7 @@ _Tools that improve or replace online play in official Touhou games._
 
 _Core tools for patching game data, translating games, and building mods._
 
+- [Ladybug Randomizer](https://github.com/Lakifume/Ladybug-Randomizer) - A randomizer for Touhou Luna Nights with logic-aware item placement, enemy, music, color, and dialogue shuffling, reverse mode, and an item tracker.
 - [neopatch](https://github.com/astral4/neopatch) - An open-source patch that reduces end-to-end latency and adds optimizations and game-specific fixes across sixteen official Touhou shooting games.
 - [thcrap](https://github.com/thpatch/thcrap) - The community patching, translation, and modding framework for Touhou games.
 - [thtk](https://github.com/thpatch/thtk) - A command-line toolkit for extracting, creating, compiling, and decompiling Touhou game data.

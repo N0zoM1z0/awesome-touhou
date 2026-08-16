@@ -18,7 +18,7 @@ Bullet hell shoot 'em up game series and doujin media franchise created by ZUN.
   - [Patching and Modding](#patching-and-modding)
 - [Gameplay, Replays, and Scoring](#gameplay-replays-and-scoring)
   - [Strategy and Competitive Play](#strategy-and-competitive-play)
-  - [Practice and Replay Tools](#practice-and-replay-tools)
+  - [Practice, Replay, and Analysis Tools](#practice-replay-and-analysis-tools)
   - [Scoreboards and Replay Archives](#scoreboards-and-replay-archives)
 - [Reverse Engineering and Preservation](#reverse-engineering-and-preservation)
 - [Game Development](#game-development)
@@ -101,9 +101,9 @@ _Guides and community resources for learning, scoring, survival, and competitive
 - [The Danmaku Gameplay Wiki](https://wiki.maribelhearn.com/wiki/Main_Page) - A gameplay-focused wiki covering mechanics, strategy, scoring, and competitive play for official Touhou shooting games.
 - [東方Project攻略 Wiki](https://wikiwiki.jp/thk/) - A Japanese strategy wiki with stage routes, mechanics, scoring notes, replay references, and bug documentation across the official shooting games.
 
-### Practice and Replay Tools
+### Practice, Replay, and Analysis Tools
 
-_Tools for practice, replay inspection, and analysis of saved game data._
+_Tools for practice, replay inspection, and live gameplay analysis._
 
 - [thhyl](https://github.com/wz520/thhyl) - A desktop viewer for metadata stored in Touhou STG replay (`.rpy`) files.
 - [thprac](https://github.com/touhouworldcup/thprac) - A comprehensive practice tool for official Touhou shooting games.

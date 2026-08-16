@@ -53,6 +53,7 @@ _Essential starting points for discovering, obtaining, and playing Touhou games.
 _Tools for organizing, launching, and running Touhou games across platforms._
 
 - [9Launcher](https://github.com/wearrrrr/9Launcher) - A Windows and Linux launcher with support for official Touhou games, thcrap, DOSBox-X, Proton, and Wine.
+- [thcrap-menu](https://github.com/philipguin/thcrap-menu) - A lightweight, controller-friendly menu for choosing per-game thcrap configurations on Windows and Steam Deck/Proton.
 - [thcrap Steam Proton Wrapper](https://github.com/nerusuki/thcrap-steam-proton-wrapper) - Launches official Steam releases with thcrap patches through Proton on GNU/Linux.
 - [Touhou Linux Guide](https://daichungus.github.io/touhoulinuxguide/) - A practical guide to running Windows-era and PC-98 Touhou games on Linux with Wine, Lutris, DOSBox-X, and Neko Project II Kai.
 - [Touhou Steam Executable Patches](https://github.com/MisterMonstr/2hu_steam-exe_to_disc-exe) - Converts supported Steam executables to their original disc form for compatibility with tools such as vpatch.

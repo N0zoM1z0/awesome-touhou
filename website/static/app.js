@@ -15,6 +15,7 @@ const symbols = {
   "Music and Data": "♫",
   "Open-source Fangames": "☄",
   "Touhou in Other Games": "◇",
+  "Events and Conventions": "祭",
   "Knowledge and Community": "☯",
 };
 

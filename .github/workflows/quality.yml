@@ -53,7 +53,10 @@ jobs:
             --no-progress
             --exclude '^https://en\.touhouwiki\.net/.*$'
             --exclude '^https://thwiki\.cc/$'
+            --exclude '^https://thwiki\.cc/%E6%97%A5%E7%A8%8B%E8%A1%A8$'
+            --exclude '^https://www\.godosai\.com/$'
             --exclude '^https://www\.thpatch\.net/wiki/Touhou_Patch_Center:Download$'
+            --exclude '^https://www\.youyou\.co\.jp/only/touhou/intro\.html$'
             README.md
             CONTRIBUTING.md
             historical.md

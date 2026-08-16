@@ -25,6 +25,7 @@ Good fits include:
 - Translation and localization infrastructure.
 - Music databases, metadata tools, playback tools, extraction tools, and reusable datasets.
 - Open-source fangames, substantial Touhou mods, and curated indexes of Touhou content in other games.
+- Recurring Touhou conventions, competitions, creator events, organizer hubs, and curated event calendars.
 - High-quality multilingual knowledge bases and community utilities.
 
 Usually out of scope:
@@ -33,8 +34,11 @@ Usually out of scope:
 - Projects matched only by a GitHub topic, a character name, or unrelated use of the word “Touhou.”
 - General-purpose software that merely supports a Touhou-themed skin or example.
 - Individual artists, music circles, streamers, shops, and isolated fan works.
+- Individual editions of recurring events, one-off commercial pop-ups or collaborations, and event announcements better represented by a stable series or organizer hub.
 - Piracy, unauthorized game downloads, asset dumps, and reuploads of copyrighted works.
 - Referral links, affiliate links, advertisements, and self-promotional spam.
+
+For event entries, prefer a stable series, organizer, or calendar URL over an edition-specific page. One-off events can still qualify when they have exceptional historical, archival, or community value.
 
 Tools that extract or transform data from a user's legally obtained copy can be in scope. They must not bundle or redistribute copyrighted game assets, music, books, or other original content.
 

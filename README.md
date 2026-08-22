@@ -137,7 +137,6 @@ _Source reconstruction and technical research that preserve how the games work._
 
 _Engines and authoring tools for building Touhou-style games and scripts._
 
-- [BulletForge](https://www.bulletforge.org/) - A searchable repository of Touhou Danmakufu projects, including full games, stages, player scripts, shot data, and other reusable scripts.
 - [LuaSTG Editor Sharp X](https://github.com/Sharp-X-Team/LuaSTG-Editor-Sharp-X) - A graphical code generator for authoring LuaSTG games across multiple engine variants.
 - [LuaSTG Sub](https://github.com/Legacy-LuaSTG-Engine/LuaSTG-Sub) - A maintained modern LuaSTG engine that moves rendering and audio to newer Windows APIs.
 - [Sparen's Danmakufu Application Monitoring System](https://github.com/Sparen/Sparen-DNH-APM) - A profiler for Touhou Danmakufu ph3 scripts that records gameplay and performance metrics and produces HTML and CSV reports for individual or repeated runs.

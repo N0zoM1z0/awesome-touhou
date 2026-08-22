@@ -57,6 +57,7 @@ _Essential starting points for discovering, obtaining, and playing Touhou games.
 _Tools for organizing, launching, and running Touhou games across platforms._
 
 - [9Launcher](https://github.com/wearrrrr/9Launcher) - A Windows and Linux launcher with support for official Touhou games, thcrap, DOSBox-X, Proton, and Wine.
+- [Tanuki Launcher](https://github.com/spacebanana420/tanuki) - A cross-platform Touhou game launcher and Wine helper with score-file backups, screen and audio recording, and screenshot tools for the Windows games from Touhou 6 onward.
 - [thcrap Steam Proton Wrapper](https://github.com/nerusuki/thcrap-steam-proton-wrapper) - Launches official Steam releases with thcrap patches through Proton on GNU/Linux.
 - [thcrap-menu](https://github.com/philipguin/thcrap-menu) - A controller-friendly menu for choosing per-game thcrap configurations from a single Windows or Steam Deck/Proton shortcut.
 - [Touhou Linux Guide](https://daichungus.github.io/touhoulinuxguide/) - A practical guide to running Windows-era and PC-98 Touhou games on Linux with Wine, Lutris, DOSBox-X, and Neko Project II Kai.
@@ -98,6 +99,7 @@ _Core tools for patching game data, translating games, and building mods._
 
 _Guides and community resources for learning, scoring, survival, and competitive play._
 
+- [Phantasmagoria of Flower View Competitive Portal](https://maribelhearn.com/pofv) - A multilingual competitive PoFV hub with a tier list, netplay setup and troubleshooting, tournament rules, and links to community resources.
 - [The Danmaku Gameplay Wiki](https://wiki.maribelhearn.com/wiki/Main_Page) - A gameplay-focused wiki covering mechanics, strategy, scoring, and competitive play for official Touhou shooting games.
 - [東方Project攻略 Wiki](https://wikiwiki.jp/thk/) - A Japanese strategy wiki with stage routes, mechanics, scoring notes, replay references, and bug documentation across the official shooting games.
 
@@ -135,6 +137,7 @@ _Source reconstruction and technical research that preserve how the games work._
 
 _Engines and authoring tools for building Touhou-style games and scripts._
 
+- [BulletForge](https://www.bulletforge.org/) - A searchable repository of Touhou Danmakufu projects, including full games, stages, player scripts, shot data, and other reusable scripts.
 - [LuaSTG Editor Sharp X](https://github.com/Sharp-X-Team/LuaSTG-Editor-Sharp-X) - A graphical code generator for authoring LuaSTG games across multiple engine variants.
 - [LuaSTG Sub](https://github.com/Legacy-LuaSTG-Engine/LuaSTG-Sub) - A maintained modern LuaSTG engine that moves rendering and audio to newer Windows APIs.
 - [Sparen's Danmakufu Application Monitoring System](https://github.com/Sparen/Sparen-DNH-APM) - A profiler for Touhou Danmakufu ph3 scripts that records gameplay and performance metrics and produces HTML and CSV reports for individual or repeated runs.
@@ -157,6 +160,8 @@ _Tools, databases, and distribution resources for identifying, tagging, extracti
 
 - [foo_thbgm](https://github.com/nyfair/foo_thbgm) - A foobar2000 component that directly plays BGM from Touhou games and related fangames.
 - [Random Touhou Music](https://github.com/shiroemons/random-touhou-music) - A web app for discovering Touhou music by randomly selecting tracks available on Apple Music, Spotify, YouTube Music, and LINE MUSIC.
+- [Touhou Arrangement Chronicle](https://touhou.arrangement-chronicle.com/) - A Japanese database for tracing Touhou arrangements by original track, album, circle, release event, vocalist, arranger, and lyricist, with search and statistics.
+- [Touhou Karaoke Lookup](https://touhou-karaoke.com/) - A Japanese search tool for Touhou songs available on DAM and JOYSOUND, filterable by title, singer, circle, source work, and original theme.
 - [Touhou Music Extractor](https://github.com/lyons/touhou_music_extractor) - A command-line tool for extracting music files from Touhou games.
 - [TouHou Player](https://github.com/BearKidsTeam/thplayer) - A cross-platform BGM player that reads music directly from Touhou game installations, supporting Touhou 6 through Touhou 19 and several spin-off shooters.
 - [Touhou Song Sorter](https://github.com/relick/touhou-song-sorter) - An interactive sorter for ranking favorite Touhou songs.
@@ -225,8 +230,11 @@ _Curated references, publications, community tools, and multilingual knowledge b
 - [Fumo Guides](https://fumo.website/) - Community-maintained guides and structured information about Touhou Fumo plushes.
 - [Maribel Hearn's Touhou Portal](https://maribelhearn.com/) - A privacy-friendly collection of game tools, replay and scoring resources, and community references.
 - [THBWiki](https://thwiki.cc/) - A Chinese-language Touhou encyclopedia and community database with extensive music, event, and publication coverage.
+- [Touhou Calendar](https://touhoucalendar.github.io/) - Documents recurring Touhou fan-observance days with hashtag references and explanations for wordplay, release dates, and historical associations.
+- [Touhou Community Jargon](https://maribelhearn.com/faq/jargon) - A multilingual glossary of Touhou gameplay, scoring, survival, and shoot-'em-up terms and acronyms.
 - [Touhou Garakuta Magazine](https://touhougarakuta.com/) - A multilingual Touhou and doujin-culture publication featuring current news, interviews, reports, criticism, and creator-focused coverage.
 - [Touhou Mystia's Izakaya Assistant](https://izakaya.cc/) - A Chinese-language companion for Touhou Mystia's Izakaya with guest references, meal planning, and searchable data for recipes, drinks, ingredients, equipment, and other collectibles.
+- [Touhou Project Popularity Poll](https://toho-vote.info/) - A long-running Japanese community poll for Touhou characters, music, and works, with browsable historical rankings, vote totals, and voter comments.
 - [Touhou Wiki](https://en.touhouwiki.net/) - A multilingual community encyclopedia covering official works, characters, gameplay, music, and fan culture.
 - [中文东方人气投票](https://touhou.vote/) - A Chinese-language Touhou popularity-poll archive with recurring character, music, work, and game polls, questionnaires, and detailed published results.
 

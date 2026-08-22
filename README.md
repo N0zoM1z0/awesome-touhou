@@ -159,8 +159,6 @@ _Tools, databases, and distribution resources for identifying, tagging, extracti
 
 - [foo_thbgm](https://github.com/nyfair/foo_thbgm) - A foobar2000 component that directly plays BGM from Touhou games and related fangames.
 - [Random Touhou Music](https://github.com/shiroemons/random-touhou-music) - A web app for discovering Touhou music by randomly selecting tracks available on Apple Music, Spotify, YouTube Music, and LINE MUSIC.
-- [Touhou Arrangement Chronicle](https://touhou.arrangement-chronicle.com/) - A Japanese database for tracing Touhou arrangements by original track, album, circle, release event, vocalist, arranger, and lyricist, with search and statistics.
-- [Touhou Karaoke Lookup](https://touhou-karaoke.com/) - A Japanese search tool for Touhou songs available on DAM and JOYSOUND, filterable by title, singer, circle, source work, and original theme.
 - [Touhou Music Extractor](https://github.com/lyons/touhou_music_extractor) - A command-line tool for extracting music files from Touhou games.
 - [TouHou Player](https://github.com/BearKidsTeam/thplayer) - A cross-platform BGM player that reads music directly from Touhou game installations, supporting Touhou 6 through Touhou 19 and several spin-off shooters.
 - [Touhou Song Sorter](https://github.com/relick/touhou-song-sorter) - An interactive sorter for ranking favorite Touhou songs.
@@ -168,7 +166,9 @@ _Tools, databases, and distribution resources for identifying, tagging, extracti
 - [TouhouDB](https://touhoudb.com/) - A multilingual collaborative database of Touhou artists, albums, songs, PVs, tags, and release events, with streaming integrations and a public API.
 - [TouhouThemeDB](https://github.com/thpatch/TouhouThemeDB) - A MediaWiki extension that provides structured data for canonical Touhou music themes.
 - [ZUN氏作曲音楽データベースWiki](https://w.atwiki.jp/tohomusicdb/) - A community-edited Japanese music-analysis wiki for ZUN's compositions, cataloging BPM, meter, key, instrumentation, chord progressions, and appearances across games and music releases.
+- [東方カラオケ検索](https://touhou-karaoke.com/) - A Japanese search tool for Touhou songs available on DAM and JOYSOUND, filterable by title, singer, circle, source work, and original theme.
 - [東方同人音楽流通](https://www.touhou-music.jp/) - An authorized digital-distribution program and catalog for Touhou doujin music, handling rights clearance for participating circles.
+- [東方編曲録 ～ Arrangement Chronicle](https://touhou.arrangement-chronicle.com/) - A Japanese database for tracing Touhou arrangements by original track, album, circle, release event, vocalist, arranger, and lyricist, with search and statistics.
 
 ## Open-source Fangames
 
@@ -231,13 +231,13 @@ _Curated references, publications, community tools, and multilingual knowledge b
 - [THBWiki](https://thwiki.cc/) - A Chinese-language Touhou encyclopedia and community database with extensive music, event, and publication coverage.
 - [THWiki Popularity Poll Results](https://maribelhearn.com/thvote) - An English translation archive of the Japanese Touhou Project Popularity Poll with sortable character, music, and work results, questionnaires, comments, and historical comparisons where available.
 - [Touhou Calendar](https://touhoucalendar.github.io/) - Documents recurring Touhou fan-observance days with hashtag references and explanations for wordplay, release dates, and historical associations.
-- [Touhou Character Sorter](https://github.com/execfera/charasort) - A browser-based preference sorter for Touhou characters with source filters, progress saving, shareable results, and image or text exports.
 - [Touhou Community Jargon](https://maribelhearn.com/faq/jargon) - A multilingual glossary of Touhou gameplay, scoring, survival, and shoot-'em-up terms and acronyms.
 - [Touhou Garakuta Magazine](https://touhougarakuta.com/) - A multilingual Touhou and doujin-culture publication featuring current news, interviews, reports, criticism, and creator-focused coverage.
 - [Touhou Mystia's Izakaya Assistant](https://izakaya.cc/) - A Chinese-language companion for Touhou Mystia's Izakaya with guest references, meal planning, and searchable data for recipes, drinks, ingredients, equipment, and other collectibles.
-- [Touhou Project Popularity Poll](https://toho-vote.info/) - A long-running Japanese community poll for Touhou characters, music, and works, with browsable historical rankings, vote totals, and voter comments.
+- [Touhou Project Character Sorter](https://github.com/execfera/charasort) - A browser-based preference sorter for Touhou characters with source filters, progress saving, shareable results, and image or text exports.
 - [Touhou Wiki](https://en.touhouwiki.net/) - A multilingual community encyclopedia covering official works, characters, gameplay, music, and fan culture.
 - [中文东方人气投票](https://touhou.vote/) - A Chinese-language Touhou popularity-poll archive with recurring character, music, work, and game polls, questionnaires, and detailed published results.
+- [東方Project人気投票](https://toho-vote.info/) - A long-running Japanese community poll for Touhou characters, music, and works, with browsable historical rankings, vote totals, and voter comments.
 
 ## Contributing
 

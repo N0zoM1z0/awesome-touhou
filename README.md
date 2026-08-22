@@ -230,7 +230,9 @@ _Curated references, publications, community tools, and multilingual knowledge b
 - [Fumo Guides](https://fumo.website/) - Community-maintained guides and structured information about Touhou Fumo plushes.
 - [Maribel Hearn's Touhou Portal](https://maribelhearn.com/) - A privacy-friendly collection of game tools, replay and scoring resources, and community references.
 - [THBWiki](https://thwiki.cc/) - A Chinese-language Touhou encyclopedia and community database with extensive music, event, and publication coverage.
+- [THWiki Popularity Poll Results](https://maribelhearn.com/thvote) - An English translation archive of the Japanese Touhou Project Popularity Poll with sortable character, music, and work results, questionnaires, comments, and historical comparisons where available.
 - [Touhou Calendar](https://touhoucalendar.github.io/) - Documents recurring Touhou fan-observance days with hashtag references and explanations for wordplay, release dates, and historical associations.
+- [Touhou Character Sorter](https://github.com/execfera/charasort) - A browser-based preference sorter for Touhou characters with source filters, progress saving, shareable results, and image or text exports.
 - [Touhou Community Jargon](https://maribelhearn.com/faq/jargon) - A multilingual glossary of Touhou gameplay, scoring, survival, and shoot-'em-up terms and acronyms.
 - [Touhou Garakuta Magazine](https://touhougarakuta.com/) - A multilingual Touhou and doujin-culture publication featuring current news, interviews, reports, criticism, and creator-focused coverage.
 - [Touhou Mystia's Izakaya Assistant](https://izakaya.cc/) - A Chinese-language companion for Touhou Mystia's Izakaya with guest references, meal planning, and searchable data for recipes, drinks, ingredients, equipment, and other collectibles.

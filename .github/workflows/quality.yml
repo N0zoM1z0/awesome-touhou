@@ -47,11 +47,12 @@ jobs:
       - name: Check external links
         uses: lycheeverse/lychee-action@v2.9.0
         with:
-          # These sites reject automated requests from GitHub-hosted runners.
+          # These sites reject or intermittently time out on automated requests from GitHub-hosted runners.
           args: >-
             --max-retries 3
             --no-progress
             --exclude '^https://en\.touhouwiki\.net/.*$'
+            --exclude '^https://gensokyoradio\.net/$'
             --exclude '^https://jam\.touhou\.dev/$'
             --exclude '^https://thwiki\.cc/$'
             --exclude '^https://thwiki\.cc/%E6%97%A5%E7%A8%8B%E8%A1%A8$'

@@ -227,10 +227,12 @@ _Long-running Touhou-only conventions and organizer hubs for recurring fan event
 
 ### Competitions and Creative Events
 
-_Recurring events centered on Touhou gameplay and fan-game creation._
+_Recurring events centered on Touhou gameplay, fan creation, research, and criticism._
 
 - [Touhou Fan Game Jam](https://jam.touhou.dev/) - A recurring community game-jam series in which solo developers and teams create Touhou fangames around announced themes, including main, Pride, and other side jams.
 - [Touhou World Cup](https://touhouworldcup.com/) - The hub for an annual international Touhou shooting-game competition with rules, schedules, results, and multilingual live broadcasts.
+- [幻想郷フォーラム](https://gensokyoforum.info/) - A recurring Touhou information and criticism event for fan research and analysis, with poster displays and oral presentations.
+- [東方ニコ童祭](https://nicodosai.com/) - An annual online Touhou fan-creation festival centered on Niconico, with derivative videos, illustrations, live broadcasts, and community programs.
 
 ### Event Calendars
 

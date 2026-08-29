@@ -24,6 +24,8 @@ Bullet hell shoot 'em up game series and doujin media franchise created by ZUN.
 - [Game Development](#game-development)
 - [Fighting Games](#fighting-games)
 - [Music and Data](#music-and-data)
+  - [Playback, Extraction, and Tagging](#playback-extraction-and-tagging)
+  - [Databases, Radio, and Discovery](#databases-radio-and-discovery)
 - [Open-source Fangames](#open-source-fangames)
 - [Touhou in Other Games](#touhou-in-other-games)
 - [Events and Conventions](#events-and-conventions)
@@ -161,12 +163,23 @@ _Launchers, mods, and netplay improvements for Touhou fighting games._
 
 _Tools, databases, and distribution resources for identifying, tagging, extracting, discovering, and playing Touhou music._
 
+### Playback, Extraction, and Tagging
+
+_Tools for playing, extracting, encoding, and tagging music from legally obtained Touhou games and releases._
+
 - [foo_thbgm](https://github.com/nyfair/foo_thbgm) - A foobar2000 component that directly plays BGM from Touhou games and related fangames.
-- [Random Touhou Music](https://github.com/shiroemons/random-touhou-music) - A web app for discovering Touhou music by randomly selecting tracks available on Apple Music, Spotify, YouTube Music, and LINE MUSIC.
 - [Touhou Music Extractor](https://github.com/lyons/touhou_music_extractor) - A command-line tool for extracting music files from Touhou games.
+- [Touhou Music Room](https://github.com/DTM9025/musicroom) - A maintained continuation of Nmlgc's Touhou music player, extractor, encoder, and mass-tagger, with Japanese and English metadata, ZUN CD tagging, and support through Touhou 20.
 - [TouHou Player](https://github.com/BearKidsTeam/thplayer) - A cross-platform BGM player that reads music directly from Touhou game installations, supporting Touhou 6 through Touhou 19 and several spin-off shooters.
-- [Touhou Song Sorter](https://github.com/relick/touhou-song-sorter) - An interactive sorter for ranking favorite Touhou songs.
 - [Touhou Tagger](https://github.com/the1812/Touhou-Tagger) - Fills Touhou Project CD track metadata using information from THBWiki.
+
+### Databases, Radio, and Discovery
+
+_Databases, authorized distribution services, radio, analysis resources, and tools for discovering Touhou music._
+
+- [Gensokyo Radio](https://gensokyoradio.net/) - A long-running 24/7 radio station for fan-made Touhou arrangements with searchable circle, artist, album, and song metadata, listening history, and podcasts.
+- [Random Touhou Music](https://github.com/shiroemons/random-touhou-music) - A web app for discovering Touhou music by randomly selecting tracks available on Apple Music, Spotify, YouTube Music, and LINE MUSIC.
+- [Touhou Song Sorter](https://github.com/relick/touhou-song-sorter) - An interactive sorter for ranking favorite Touhou songs.
 - [TouhouDB](https://touhoudb.com/) - A multilingual collaborative database of Touhou artists, albums, songs, PVs, tags, and release events, with streaming integrations and a public API.
 - [TouhouThemeDB](https://github.com/thpatch/TouhouThemeDB) - A MediaWiki extension that provides structured data for canonical Touhou music themes.
 - [ZUN氏作曲音楽データベースWiki](https://w.atwiki.jp/tohomusicdb/) - A community-edited Japanese music-analysis wiki for ZUN's compositions, cataloging BPM, meter, key, instrumentation, chord progressions, and appearances across games and music releases.

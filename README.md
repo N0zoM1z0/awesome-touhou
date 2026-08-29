@@ -60,6 +60,7 @@ _Tools for organizing, launching, and running Touhou games across platforms._
 - [Tanuki Launcher](https://github.com/spacebanana420/tanuki) - A cross-platform Touhou game launcher and Wine helper with score-file backups, screen and audio recording, and screenshot tools for the Windows games from Touhou 6 onward.
 - [thcrap Steam Proton Wrapper](https://github.com/nerusuki/thcrap-steam-proton-wrapper) - Launches official Steam releases with thcrap patches through Proton on GNU/Linux.
 - [thcrap-menu](https://github.com/philipguin/thcrap-menu) - A controller-friendly menu for choosing per-game thcrap configurations from a single Windows or Steam Deck/Proton shortcut.
+- [thd3d8mitigation](https://github.com/shimon1024/thd3d8mitigation) - A Direct3D 8 compatibility layer that mitigates fullscreen speedup and related presentation problems in older Touhou games, especially Embodiment of Scarlet Devil on Windows 10 and 11.
 - [Touhou Linux Guide](https://daichungus.github.io/touhoulinuxguide/) - A practical guide to running Windows-era and PC-98 Touhou games on Linux with Wine, Lutris, DOSBox-X, and Neko Project II Kai.
 - [Touhou Steam Executable Patches](https://github.com/MisterMonstr/2hu_steam-exe_to_disc-exe) - Converts supported Steam executables to their original disc form for compatibility with tools such as vpatch.
 - [Universal THCRAP Launcher](https://github.com/thpatch/Universal-THCRAP-Launcher) - A universal game launcher for thcrap configurations.
@@ -78,6 +79,7 @@ _Tools for configuring controls and connecting games to other applications._
 _Tools that improve or replace online play in official Touhou games._
 
 - [Ju.N.Owen](https://github.com/progre/junowen) - An alternative netplay layer for Touhou 19 v1.10c with adjustable delay, shared and reserved rooms, direct P2P connections, and spectating.
+- [ThLink](https://github.com/weilinfox/youmu-thlink) - A self-hostable relay for UDP-based Touhou netplay, with QUIC or TCP transport, decentralized server discovery, and spectator support for Hisoutensoku and Antinomy of Common Flowers.
 
 ### Patching and Modding
 
@@ -88,6 +90,7 @@ _Core tools for patching game data, translating games, and building mods._
 - [neopatch](https://github.com/astral4/neopatch) - An open-source patch that reduces end-to-end latency and adds optimizations and game-specific fixes across sixteen official Touhou shooting games.
 - [thcrap](https://github.com/thpatch/thcrap) - The community patching, translation, and modding framework for Touhou games.
 - [thtk](https://github.com/thpatch/thtk) - A command-line toolkit for extracting, creating, compiling, and decompiling Touhou game data.
+- [Touhou 10 APWorld](https://github.com/Nepley/mof-apworld) - Adds Mountain of Faith to the Archipelago multi-game randomizer, with configurable Practice or Normal progression, shot types, resources, difficulty, Extra Stage goals, traps, and Ring Link support.
 - [Touhou 6 APWorld](https://github.com/Nepley/eosd-apworld) - Adds Embodiment of Scarlet Devil to the Archipelago multi-game randomizer, with configurable stage, resource, difficulty, and Extra Stage progression.
 - [Touhou 7 APWorld](https://github.com/Nepley/pcb-apworld) - Adds Perfect Cherry Blossom to the Archipelago multi-game randomizer, with configurable stage, resource, difficulty, Extra Stage, and Phantasm Stage progression.
 - [Touhou 8 APWorld](https://github.com/Nepley/in-apworld) - Adds Imperishable Night to the Archipelago multi-game randomizer, with configurable team, stage, time, Spell Practice, and Extra Stage progression.
@@ -112,6 +115,7 @@ _Tools for practice, replay inspection, and live gameplay analysis._
 - [thprac](https://github.com/touhouworldcup/thprac) - A comprehensive practice tool for official Touhou shooting games.
 - [threp](https://github.com/wasupandceacar/threp) - Parses Touhou replay metadata and recorded input sequences.
 - [ThScoreFileConverter](https://github.com/y-iihoshi/ThScoreFileConverter) - Generates text or HTML summaries from score files and PNG images from best-shot data for many official Touhou games.
+- [Touhou 12.8 Replay Fixer](https://github.com/kikones34/th128-replay-fixer) - Repairs Great Fairy Wars replays affected by the wrong-route glitch and can decode detailed replay metadata and recorded input streams.
 
 ### Scoreboards and Replay Archives
 

@@ -77,7 +77,6 @@ _Tools for configuring controls and connecting games to other applications._
 - [TouhouRPC](https://github.com/TheBakaRem/TouhouRPC) - Adds Discord Rich Presence support to Touhou games.
 
 ### Netplay
-
 _Tools that improve or replace online play in official Touhou games._
 
 - [Ju.N.Owen](https://github.com/progre/junowen) - An alternative netplay layer for Touhou 19 v1.10c with adjustable delay, shared and reserved rooms, direct P2P connections, and spectating.
@@ -136,8 +135,9 @@ _Source reconstruction and technical research that preserve how the games work._
 - [Touhou 10.5 Source Reconstruction](https://github.com/N0zoM1z0/th105) - A source reconstruction of Scarlet Weather Rhapsody 1.06a using reproducible binary comparison, machine-readable function tracking, and documented IDA and Ghidra workflows.
 - [Touhou 6 Decompilation](https://github.com/GensokyoClub/th06) - A decompilation of Embodiment of Scarlet Devil version 1.02h.
 - [Touhou 7 Decompilation](https://github.com/some100/th07) - A fully implemented, nearly byte-accurate decompilation of Perfect Cherry Blossom version 1.00b, with cross-platform porting branches.
-- [Touhou 8 Agent-First Source Reconstruction](https://github.com/N0zoM1z0/th08) - An agent-first continuation of the GensokyoClub decompilation, with reproducible binary matching and documented reverse-engineering workflows.
-- [Touhou 8 Decompilation](https://github.com/GensokyoClub/th08) - A decompilation of Imperishable Night version 1.00d.
+- [Touhou 8 Source Reconstruction](https://github.com/N0zoM1z0/th08) - Reconstructs all 1,107 authored functions from Imperishable Night 1.00d, with 99.92% strict byte matching and playable native Linux builds for x86_64, i386, and experimental AArch64.
+- [Touhou 8 Web](https://github.com/N0zoM1z0/th08-web) - A playable browser port of the reconstructed Imperishable Night source using WebAssembly, WebGL 2, and Web Audio, with full-route validation and local-only loading of legally obtained game data.
+- [Touhou 9.5 Source Reconstruction](https://github.com/N0zoM1z0/th095) - An active source reconstruction of Shoot the Bullet 1.02a using a hash-attested target and reproducible byte comparison as its acceptance criterion.
 
 ## Game Development
 

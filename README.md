@@ -134,6 +134,7 @@ _Source reconstruction and technical research that preserve how the games work._
 
 - [ReC98](https://github.com/nmlgc/ReC98) - Reconstructs readable, binary-equivalent source code for the five PC-98 Touhou games.
 - [Touhou 10.5 Source Reconstruction](https://github.com/N0zoM1z0/th105) - A source reconstruction of Scarlet Weather Rhapsody 1.06a using reproducible binary comparison, machine-readable function tracking, and documented IDA and Ghidra workflows.
+- [Touhou 4 Source Reconstruction](https://github.com/N0zoM1z0/th04) - Reconstructs the Japanese PC-98 release of Lotus Land Story across OP.EXE, MAIN.EXE, MAINE.EXE, and ZUN.COM with reproducible build, analysis, and raw-byte comparison gates.
 - [Touhou 6 Decompilation](https://github.com/GensokyoClub/th06) - A decompilation of Embodiment of Scarlet Devil version 1.02h.
 - [Touhou 7 Decompilation](https://github.com/some100/th07) - A fully implemented, nearly byte-accurate decompilation of Perfect Cherry Blossom version 1.00b, with cross-platform porting branches.
 - [Touhou 8 Source Reconstruction](https://github.com/N0zoM1z0/th08) - Reconstructs all 1,107 authored functions from Imperishable Night 1.00d, with 99.92% strict byte matching and playable native Linux builds for x86_64, i386, and experimental AArch64.

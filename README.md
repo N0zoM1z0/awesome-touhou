@@ -139,7 +139,7 @@ _Source reconstruction and technical research that preserve how the games work._
 - [Touhou 7 Decompilation](https://github.com/some100/th07) - A fully implemented, nearly byte-accurate decompilation of Perfect Cherry Blossom version 1.00b, with cross-platform porting branches.
 - [Touhou 8 Source Reconstruction](https://github.com/N0zoM1z0/th08) - Reconstructs all 1,107 authored functions from Imperishable Night 1.00d, with 99.92% strict byte matching and playable native Linux builds for x86_64, i386, and experimental AArch64.
 - [Touhou 8 Web](https://github.com/N0zoM1z0/th08-web) - A playable browser port of the reconstructed Imperishable Night source using WebAssembly, WebGL 2, and Web Audio, with full-route validation and local-only loading of legally obtained game data.
-- [Touhou 9.5 Source Reconstruction](https://github.com/N0zoM1z0/th095) - An active source reconstruction of Shoot the Bullet 1.02a using a hash-attested target and reproducible byte comparison as its acceptance criterion.
+- [Touhou 9.5 Source Reconstruction](https://github.com/N0zoM1z0/th095) - Reconstructs all confirmed authored functions from Shoot the Bullet 1.02a, with a playable Windows i386 build and reproducible byte-comparison tracking against a hash-attested target.
 
 ## Game Development
 
